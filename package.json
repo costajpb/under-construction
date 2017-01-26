@@ -1,0 +1,21 @@
+{
+  "name": "under-construction",
+  "version": "0.2.2",
+  "description": "Your construction site ready for you to work on in no time.",
+  "preferGlobal": true,
+  "bin": {
+    "under-construction": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "costajpb",
+  "license": "ISC",
+  "dependencies": {
+    "npm-run": "^2.0.0",
+    "path": "^0.11.14",
+    "require-cwd": "0.0.2",
+    "resolve": "^1.1.6",
+    "shelljs": "^0.5.3"
+  }
+}
